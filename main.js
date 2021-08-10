@@ -44,4 +44,4 @@ lists[5].append(chaptersFifthBook[8]);
 lists[5].append(chaptersFifthBook[10]);
 
 //====================================================================
-lists[2].insertAdjacentHTML('beforeend', '<li>Глава 8: За пределами ES6”</li>');
+lists[2].insertAdjacentHTML('beforeend', '<li>Глава 8: За пределами ES6</li>');
